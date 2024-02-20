@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MatchGame": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\projetos"
+    }
+  }
+}
